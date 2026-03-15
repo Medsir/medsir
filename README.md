@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">A french</h3>
+<h3 align="center">A french Computer Science Student from paris, 20y.o</h3>
 
 - 🔭 I’m currently working on **Toaru UHC**
 
