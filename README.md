@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">A french</h3>
 
+- 🔭 I’m currently working on **Toaru UHC**
+
+- 🌱 I’m currently learning **ASM**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
