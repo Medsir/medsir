@@ -2,9 +2,8 @@
 ###   Bonjour ! 👋.
 
 ## 🏠 Qui suis-je ?
-Mehdi, passionné d'informatique, je pratique depuis maintenant 6 ans. J'ai commencé par coder des jeux vidéos type RPG en python (comme Pokémon car fan de nintendo), j'ai réalisé quelques sites web en apprenant en même temps à designer avec Photoshop. Aujourd'hui intéressé par les systèmes informatique, je commence à m'intéresser à plusieurs choses dont le modding, le reverse engineering et la cryptanalyse que je pratique à mes heures perdues et je souhaite exercer mon futur métier dans le domaine des systèmes et du réseau.
-Etudiant à Sorbonne Université (UPMC), actuellement en Master SAR (Systèmes et applications réparties). 
-
+Mehdi, etudiant à Sorbonne Université (UPMC), actuellement en Master SAR (Systèmes et applications réparties). <br>
+Passionné d'informatique, je pratique depuis maintenant 6 ans. J'ai commencé par coder des jeux vidéos type RPG en python (comme Pokémon car fan de nintendo), j'ai réalisé quelques sites web en apprenant en même temps à designer avec Photoshop. Aujourd'hui intéressé par les systèmes informatique, je commence à m'intéresser à plusieurs choses dont le modding, le reverse engineering et la cryptanalyse que je pratique à mes heures perdues et je souhaite exercer mon futur métier dans le domaine des systèmes et du réseau.<br>
 
 ## 💻 Ma tech stack
 Voici une liste  des outils informatique que je sais utiliser (non exhaustive, parce que j'ai encore d'autres surprises en réserve) :
