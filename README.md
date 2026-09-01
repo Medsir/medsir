@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Medsir</h1>
-<h3 align="center">A french Computer Science Student from paris, 20y.o</h3>
+<h3 align="center">A french Computer Science Student from paris</h3>
 
-# 💫 About Me:
-🔭 Passionate about computer science and internet culture, with a strong interest in video games and manga
-<br> ✨ Hoping to pursue a Master’s degree in Computer Systems / Cloud Networking
- <br>🌱 Currently learning **ASM**
 
 
 # 💻 Tech Stack:
