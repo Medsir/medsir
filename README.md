@@ -4,7 +4,7 @@
  
 <div style="display:flex">
  Mehdi, etudiant à Sorbonne Université (UPMC), actuellement en Master SAR (Systèmes et applications réparties). <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFuamc4MXh4bHoyeGh5emtmZzByNzlwM3ZvdzJvc3lmdzFrMHdrYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XuL4Zlq33sCTC/giphy.gif" alt="drawing" width="60"/>
+<img href="https://www.linkedin.com/" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFuamc4MXh4bHoyeGh5emtmZzByNzlwM3ZvdzJvc3lmdzFrMHdrYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XuL4Zlq33sCTC/giphy.gif" alt="drawing" width="60"/>
 </div>
 
 ## 💻 Tech stack
