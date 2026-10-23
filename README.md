@@ -17,7 +17,7 @@ Je suis un développeur passionné par le bas-niveau, l'architecture logicielle 
 - ⚡ **Passionné** de programmation système en C, C++, Java et scripts Linux/Bash.
 - 🎮 **Créateur** de plugins et de l'écosystème Minecraft (Spigot, Paper, Forge).
 - 🎨 **Touche-à-tout créatif** : adepte de photo et de création numérique (Krita, Photoshop, Lightroom).
-
+<br>
 </td>
 <td width="35%" align="center">
   <!-- Illustration animée sur le côté (similaire à la chouette de ton exemple) -->
@@ -54,7 +54,7 @@ Je suis un développeur passionné par le bas-niveau, l'architecture logicielle 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧱 Écosystème Minecraft
+### 🧱 Outils de développement Minecraft
 ![SpigotMC](https://img.shields.io/badge/SpigotMC-000000?style=for-the-badge&logo=spigotmc&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper-000000?style=for-the-badge)
 ![Forge](https://img.shields.io/badge/Forge-ED2C00?style=for-the-badge&logo=curseforge&logoColor=white)
@@ -68,8 +68,8 @@ Je suis un développeur passionné par le bas-niveau, l'architecture logicielle 
 ---
 ## 📌 Mes Projets Principaux
 
-| Projet | Ce que ça montre | Stack | Dashboard |
-| :--- | :--- | :--- | :--- |
+| Projet | Description | Stack | 
+| :--- | :--- | :--- | 
 | **[projetcpu](https://github.com/Medsir/projetcpu)** | Simulation d'une architecture CPU en C (Projet Universitaire en binôme) | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) | — |
 | **[fashion-mnist-image-classifier](https://github.com/Medsir/fashion-mnist-image-classifier)** | Projet de Data Science universitaire sur la base Fashion MNIST (classification d'images de vêtements). Réalisé en binôme avec Antoinemcm. | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white) | — |
 | **[toaru_UHC](https://github.com/Medsir/toaru_UHC)** | Plugin Minecraft UHC multijoueurs intégrant des pouvoirs inspirés de la série *Toaru*, projet perso en binôme. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | — |
